@@ -1,11 +1,11 @@
 {
   "private": true,
-  "name": "cara",
-  "description": "Playful and Colorful One-Page portfolio featuring Parallax effects and animations",
+  "name": "harikallubhavi",
+  "description": "This is my portfolio website",
   "version": "0.2.13",
-  "author": "LekoArts",
+  "author": "Hari Kallubhavi",
   "license": "0BSD",
-  "starter-name": "gatsby-starter-portfolio-cara",
+  "starter-name": "gatsby-starter-portfolio-harikallubhavi",
   "scripts": {
     "build": "gatsby build",
     "develop": "gatsby develop",
